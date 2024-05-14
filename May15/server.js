@@ -35,6 +35,6 @@ JavaScript is internally compiled by V8 with just-in-time (JIT) compilation to s
 
 This might seem counter-intuitive, but since the introduction of Google Maps in 2004, JavaScript has evolved from a language that was generally executing a few dozens of lines of code to complete applications with thousands to hundreds of thousands of lines running in the browser.
 
-Our applications can now run for hours inside a browser, rather than being just a few form validation rules or simple scripts.
+Our applications can now run for hours inside a browser, rather than being just a few form validation rules or simple     scripts.
 
 In this new world, compiling JavaScript makes perfect sense because while it might take a little bit more to have the JavaScript ready, once done it's going to be much more performant than purely interpreted code.
