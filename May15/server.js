@@ -10,7 +10,7 @@ The Node.js ecosystem is huge and thanks to V8 which also powers desktop apps, w
 Other JS engines
 Other browsers have their own JavaScript engine:
 
-Firefox has SpiderMonkey
+Firefox has SpiderMonkey  
 Safari has JavaScriptCore (also called Nitro)
 Edge was originally based on Chakra but has more recently been rebuilt using Chromium and the V8 engine.
 and many others exist as well.
